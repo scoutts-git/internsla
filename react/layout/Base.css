@@ -1,0 +1,12 @@
+.main_wrapper {
+  min-height: 700px;
+  background: linear-gradient(87deg, #7678a2, #1a174d) !important;
+}
+
+.editBtn {
+  color: hsl(214, 79%, 65%);
+}
+
+.editBtn:hover {
+  color: #ffc312;
+}
