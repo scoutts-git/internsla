@@ -1,0 +1,107 @@
+div.contactUs-page {
+  color: white;
+  background: linear-gradient(87deg, #7678a2, #1a174d) !important;
+  padding-bottom: 10px;
+}
+
+.cont-contactUs {
+  padding-top: 74px;
+}
+
+.info .fas1 {
+  color: #ffc312;
+}
+
+.infoz [class*="col-"] {
+  border-right: 1px solid;
+  border-left: 1px solid;
+  color: white;
+  padding-top: 10px;
+}
+
+.info .infoz-title {
+  margin: 25px 0 15px;
+  padding: 0 15px;
+  color: #fff;
+}
+
+p.description {
+  color: #ffc312;
+  padding: 0 15px;
+  font-size: 1.1em;
+}
+
+.contactUs-ph {
+  border-bottom: 0px;
+}
+
+.contactForm-title {
+  padding-top: 0rem;
+}
+
+.mx {
+  margin-top: 0rem;
+}
+
+.df {
+  display: flex;
+}
+
+div.contactForm-title {
+  padding-bottom: 5px;
+}
+
+.contactForm-txt {
+  color: #ffc312;
+}
+
+.contactForm {
+  padding-top: 5px;
+}
+
+.contactBtn {
+  float: right;
+  background: #e14eca;
+  background-image: linear-gradient(to bottom left, #e14eca, #ba54f5, #e14eca);
+  background-size: 210% 210%;
+  background-position: 100% 0;
+  background-color: #e14eca;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+  box-shadow: none;
+  color: #fff;
+}
+
+.watermarkContact {
+  position: relative;
+  overflow: hidden;
+}
+
+.watermarkContact .Cpath {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 80%;
+  height: auto;
+  opacity: 0.07;
+}
+
+.watermarkContact img.path1 {
+  width: 20%;
+  top: 0;
+}
+
+.landing-page .section:first-of-type .path {
+  left: -110px;
+  max-width: 60%;
+  top: -50px;
+}
+
+.contactPath {
+  position: absolute;
+  opacity: 0.02;
+}
+
+#message {
+  height: 150px;
+}
