@@ -1,0 +1,385 @@
+div.la-background,
+.register-page,
+.about-page,
+.forgot-page,
+.reset-password-page,
+.confirm_email-page {
+  background: linear-gradient(87deg, #7678a2, #1a174d) !important;
+}
+
+.about-page,
+.confirm_email-page {
+  color: white;
+  text-align: center;
+}
+
+img.logo {
+  width: 55%;
+}
+
+a {
+  color: white;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+nav.navbariL {
+  background: linear-gradient(#7678a2 40%, #0000);
+}
+
+nav.navbariL .link {
+  color: white;
+  position: absolute;
+  font-size: 18px;
+  background-color: transparent;
+  padding: 0px 0px 0px 130px;
+}
+
+nav.navbariL .link:hover,
+.logout_navbar:hover {
+  color: #ffc312;
+}
+
+a.navbar-brand {
+  margin: 0;
+  padding: 0px 0px 0px 0px;
+}
+
+.navbar div.collapse {
+  background-color: transparent;
+}
+
+.saying {
+  padding-top: 10px;
+}
+
+.saying-h {
+  color: white;
+  font-size: 55px;
+  margin-bottom: 10px;
+}
+
+.watermark {
+  position: relative;
+  overflow: hidden;
+}
+
+.watermark .path {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 95%;
+  height: auto;
+  opacity: 0.07;
+}
+
+.watermark .path4 {
+  position: absolute;
+  top: 0;
+  width: 70%;
+  height: auto;
+  opacity: 0.07;
+}
+
+.watermark .path3 {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 80%;
+  height: auto;
+  opacity: 0.07;
+}
+
+.watermark img.path1 {
+  width: 20%;
+  top: 0;
+}
+
+.watermark img.path2 {
+  width: 40%;
+  top: 0;
+}
+
+div.iLfooter {
+  color: white;
+  padding-top: 0.1px;
+  border-top: 2px solid #435db5;
+  background: radial-gradient(ellipse at bottom, #292d61 30%, #171941 80%);
+}
+
+div.smIcons,
+.account-txt,
+.box-txt {
+  color: white;
+}
+
+.forgot-text {
+  padding-top: 30px;
+}
+
+.landing_login {
+  height: 420px;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 400px;
+  background-color: rgba(0, 0, 0, 0.6) !important;
+}
+
+.landing_login .card-header {
+  padding: 8px;
+}
+
+.landing_login .card-header h3,
+.register_header h3 {
+  color: white;
+  padding: 30px 0px 0px 10px;
+}
+
+.loginLogo,
+.forgot_logo {
+  position: absolute;
+  right: 1px;
+  top: -10px;
+  width: 30%;
+  padding: 8px 8px 0px 0px;
+}
+
+.input-group-prepend span {
+  width: 50px;
+  background-color: #ffc312;
+  color: black;
+  border: 0;
+}
+
+div.login {
+  margin-top: 65px;
+  margin-bottom: 50px;
+}
+
+.remember input {
+  width: 20px;
+  height: 20px;
+  margin-left: 15px;
+  margin-right: 5px;
+}
+
+.loginForm_btn {
+  margin-top: 15px;
+}
+
+.loginFields {
+  margin-top: 35px;
+}
+
+.purple_btn {
+  background: #e14eca;
+  background-image: linear-gradient(to bottom left, #e14eca, #ba54f5, #e14eca);
+  background-size: 210% 210%;
+  background-position: 100% 0;
+  background-color: #e14eca;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+  box-shadow: none;
+  color: #fff;
+}
+
+.purple_btn:hover {
+  color: black;
+  background-color: white;
+}
+
+.jcc {
+  color: #ffc312;
+}
+
+nav.navbariL .show .link {
+  padding: 0px;
+}
+
+nav.navbariL .link {
+  position: none;
+}
+
+a.signUp {
+  color: #ffc312;
+}
+
+.card-footer .links {
+  padding: 0px 10px 10px 0px;
+}
+
+.links,
+.icons,
+.logout_navbar,
+.org-head {
+  color: white;
+}
+
+.logout_navbar {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.links a {
+  margin-left: 4px;
+}
+
+.footerLink:hover,
+.form_text,
+.forgot-text {
+  color: #ffc312;
+}
+
+.register_card {
+  width: 550px;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.confirm_email_card {
+  padding: 45px 0px 40px 0px;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.orgreg-card {
+  color: #ffc312;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.reg-card,
+.emailpage-heading {
+  padding: 100px 0px 50px 0px;
+}
+.orgreg_page {
+  padding: 100px 20px 50px 20px;
+}
+
+.bottom_text,
+.mid_txt {
+  color: #ffc312;
+  padding-top: 30px;
+}
+
+.reg-login,
+.forgot_reset_btn,
+.reset_pwd_btn {
+  margin-bottom: 50px;
+}
+
+.register_header,
+.agree-terms,
+.forgot_reset,
+.reset_pwd {
+  padding-top: 15px;
+}
+
+.reg-email {
+  margin-top: 40px;
+}
+
+.banner-headline_one {
+  line-height: 72px;
+  font-weight: 200;
+  font-size: 66px;
+  padding-top: 140px;
+}
+
+.subheadline_about {
+  line-height: 28px;
+  font-weight: 400;
+  font-size: 21px;
+}
+
+.vision_headline {
+  padding-top: 90px;
+}
+
+.banner-headline {
+  line-height: 48px;
+  font-weight: 200;
+  font-size: 42px;
+}
+
+.banner-subheadline {
+  line-height: 24px;
+  font-weight: 400;
+  font-size: 17px;
+}
+
+.bottom-section {
+  padding-top: 25px;
+  padding-bottom: 150px;
+}
+
+.forgot-footer-message {
+  color: white;
+  padding-bottom: 40px;
+}
+
+.exp_location,
+.exp_dates {
+  padding-top: 25px;
+}
+
+.exp_dates {
+  text-align: center;
+}
+
+.search_card {
+  height: 95px;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 350px;
+  background-color: rgba(0, 0, 0, 0.6) !important;
+}
+
+.landing_jobsearch {
+  padding-top: 15px;
+}
+
+.job_searchbar {
+  border-radius: 0.25rem;
+  width: 20px;
+}
+
+.jobs_btn {
+  padding: 10px 10px 10px 10px;
+}
+
+.search_input {
+  width: 200px;
+  height: 25px;
+  margin-left: 15px;
+  margin-right: 5px;
+}
+
+.search_container {
+  display: inline-flex;
+  flex: 1 1 300px;
+  position: relative;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.search_icon {
+  padding: 0.5rem;
+  width: 50px;
+  background-color: #ffc312;
+  color: black;
+  border: 0;
+  justify-content: center;
+  padding-left: 15px;
+}
+
+.searchBox {
+  border: 0;
+  padding: 0.5rem 0.5rem 0.5rem 0;
+  flex: 1;
+}
+
+.search_txt {
+  margin-right: 30px;
+}
